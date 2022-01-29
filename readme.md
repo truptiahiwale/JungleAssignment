@@ -1,10 +1,10 @@
 # Project Title
-BSF Assignment 
+Jungle Home page Assignment 
 
 ### Summary
 
 ```
-Amazon website scenario automation using- using JAVA ,Selenium WebDriver & TestNG.
+Jungle Home page automation using- using JAVA ,Selenium WebDriver & TestNG.
 
 ```
 
@@ -12,8 +12,9 @@ Amazon website scenario automation using- using JAVA ,Selenium WebDriver & TestN
 
 ```
 - JDK 1.8 
-- Eclipse
+- Eclipse with TestNG plugin
 - Chrome Browser
+ 
 
 ```
 
@@ -23,12 +24,12 @@ Amazon website scenario automation using- using JAVA ,Selenium WebDriver & TestN
 Test Files : src/test/java/tests
 
 - In this file you can find all test cases (/test classes)
-e.g. src/test/test/AmazonLoginTest.java
+e.g. src/test/test/JungleHomePageTest.java
 
 Page Files: src/test/java/pages
 
 - In this file you will find all page classes ( POM )
-e.g. src/test/java/pages/AmazonLoginPage.java
+e.g. src/test/java/pages/JungleHomePage.java
 
 Util Files : src/test/java/utils
 - Helper functions are saved here 
@@ -40,7 +41,7 @@ e.g. src/test/java/utils/CustomSoftAssert.java
 
 ```
 Run single test 
--Go to "src/test/test/AmazonLoginTest.java" 
+-Go to "src/test/test/JungleHomePageTest.java" 
 -Right click >> select - "Run as TestNG Test"
 
 How to Run as a TestNG suite 
