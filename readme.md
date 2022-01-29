@@ -20,6 +20,8 @@ Jungle Home page automation using- using JAVA ,Selenium WebDriver & TestNG.
 
 ### Check below files
 
+Download the project Zip file
+Open the project in Eclips as "existing Maven" project.
 ```
 Test Files : src/test/java/tests
 
