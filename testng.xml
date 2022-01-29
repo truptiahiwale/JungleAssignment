@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="JungleAssignment">
+  <test  name="JungleHomePageTest">
+    <classes>
+      <class name="test.JungleHomePageTest"/>
+    </classes>
+  </test> <!-- JungleHomePageTest -->
+  <test  name="FailTestCaseExample">
+    <classes>
+      <class name="test.FailTestCaseExample"/>
+    </classes>
+  </test> <!-- FailTestCaseExample -->
+ </suite> <!-- BSFAssignment -->
