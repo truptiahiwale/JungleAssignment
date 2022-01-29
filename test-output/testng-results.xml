@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-29T23:51:43 GST" name="JungleAssignment" finished-at="2022-01-29T23:52:28 GST" duration-ms="44650">
+    <groups>
+    </groups>
+    <test started-at="2022-01-29T23:51:43 GST" name="JungleHomePageTest" finished-at="2022-01-29T23:51:50 GST" duration-ms="6823">
+      <class name="test.JungleHomePageTest">
+        <test-method is-config="true" signature="openDriver()[pri:0, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:43 GST" name="openDriver" finished-at="2022-01-29T23:51:49 GST" duration-ms="5646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriver -->
+        <test-method signature="verifyMenuLinkedDisplayed()[pri:0, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyMenuLinkedDisplayed" description="verify header list" finished-at="2022-01-29T23:51:49 GST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuLinkedDisplayed -->
+        <test-method signature="verifyStepsSection()[pri:1, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyStepsSection" description="verify step section title and detail message " finished-at="2022-01-29T23:51:49 GST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStepsSection -->
+        <test-method signature="verifyCategoryList()[pri:2, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyCategoryList" description="Verify Category List present " finished-at="2022-01-29T23:51:49 GST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCategoryList -->
+        <test-method signature="verifyFAQSection()[pri:3, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyFAQSection" description="Verify FAQ section " finished-at="2022-01-29T23:51:49 GST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFAQSection -->
+        <test-method signature="verifyBannerHeadLine()[pri:5, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyBannerHeadLine" description="Verify Banner head line displayed" finished-at="2022-01-29T23:51:49 GST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerHeadLine -->
+        <test-method signature="verifyBannerDetailedText()[pri:6, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyBannerDetailedText" description="Verify Banner detailed text displayed  " finished-at="2022-01-29T23:51:49 GST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerDetailedText -->
+        <test-method signature="verifySloganTitle()[pri:7, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifySloganTitle" description="Verify Slogan Title displayed  " finished-at="2022-01-29T23:51:49 GST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySloganTitle -->
+        <test-method signature="verifySloganDetails()[pri:8, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifySloganDetails" description="Verify Slogan details displayed  " finished-at="2022-01-29T23:51:49 GST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySloganDetails -->
+        <test-method signature="verifySectionHeaders()[pri:9, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifySectionHeaders" description="Verify section headers displayed  " finished-at="2022-01-29T23:51:49 GST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySectionHeaders -->
+        <test-method signature="verifyGetStartedLink()[pri:10, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyGetStartedLink" description="Verify Get started link is present  " finished-at="2022-01-29T23:51:49 GST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetStartedLink -->
+        <test-method signature="verifyBannerTextLink()[pri:11, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="verifyBannerTextLink" description="Verify Get started link is present  " finished-at="2022-01-29T23:51:49 GST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerTextLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.JungleHomePageTest@41a0aa7d]" started-at="2022-01-29T23:51:49 GST" name="tearDown" finished-at="2022-01-29T23:51:50 GST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.JungleHomePageTest -->
+    </test> <!-- JungleHomePageTest -->
+    <test started-at="2022-01-29T23:51:50 GST" name="FailTestCaseExample" finished-at="2022-01-29T23:52:28 GST" duration-ms="37806">
+      <class name="test.FailTestCaseExample">
+        <test-method is-config="true" signature="openDriver()[pri:0, instance:test.FailTestCaseExample@7ef82753]" started-at="2022-01-29T23:51:50 GST" name="openDriver" finished-at="2022-01-29T23:51:54 GST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriver -->
+        <test-method signature="verifyBannerTextLink()[pri:12, instance:test.FailTestCaseExample@7ef82753]" started-at="2022-01-29T23:51:54 GST" name="verifyBannerTextLink" description="Verify Get started link is present  " finished-at="2022-01-29T23:52:23 GST" duration-ms="29127" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [Learn more about Jungle] but found [Learn more about Jungle NFT]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [Learn more about Jungle] but found [Learn more about Jungle NFT]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at test.FailTestCaseExample.verifyBannerTextLink(FailTestCaseExample.java:22)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerTextLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.FailTestCaseExample@7ef82753]" started-at="2022-01-29T23:52:23 GST" name="tearDown" finished-at="2022-01-29T23:52:28 GST" duration-ms="4273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.FailTestCaseExample -->
+    </test> <!-- FailTestCaseExample -->
+  </suite> <!-- JungleAssignment -->
+</testng-results>
